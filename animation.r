@@ -1,8 +1,4 @@
-setwd("/mnt/yakov/tmp/drerio")
 library("data.table")
-# library("rgl")
-#library("car")
-#install.packages("rgl")
 library("sp")
 library(rgl)
 library(scatterplot3d)
